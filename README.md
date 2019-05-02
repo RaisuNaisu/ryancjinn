@@ -6,23 +6,4 @@ Through my classes and campus involvement here at the University of Oklahoma as 
 
 I know that with the experience from my previous internship, and the job skills acquired working in a diverse selection of part-time jobs over the years, I would able to contribute towards the workforce as a team player. I am currently also taking up e-commerce and some programming classes that consists of working with SQL, HTML, C#, MVC, WPF. Through these classes, I am confident to face the essential tasks and challenges that this position has to offer. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RaisuNaisu/ryancjinn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[https://www.linkedin.com/in/chien-jinn-lim-1aa780119/]
